@@ -2,16 +2,15 @@
 // Created by melle on 23/11/2022.
 //
 
-#ifndef AOC_ONE_H
-#define AOC_ONE_H
+#ifndef AOC_THREE_H
+#define AOC_THREE_H
 #include <iostream>
 #include <fstream>
-#include <string>
+#include <cmath>
 #include "../filesystem.h"
-
 namespace y2021 {
-	namespace one {
+	namespace three {
 		void solve();
-	};
+	}
 }
-#endif //AOC_ONE_H
+#endif //AOC_THREE_H
