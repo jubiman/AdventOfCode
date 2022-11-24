@@ -6,7 +6,9 @@
 #define AOC_THREE_H
 #include <iostream>
 #include <fstream>
+#include <algorithm>
 #include <cmath>
+#include <vector>
 #include "../filesystem.h"
 namespace y2021 {
 	namespace three {
