@@ -45,5 +45,6 @@ void y2021::six::solve() {
 		fish2[8]=fish[0];
 		fish=fish2;
 	}
+	f.close();
 	std::cout << std::accumulate(fish.begin(), fish.end(), 0llu) << std::endl;
 }
